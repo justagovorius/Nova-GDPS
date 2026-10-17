@@ -7,6 +7,7 @@ Heyo ppl, Govorius' here! There's my own private server - Nova! It's continuatio
 
 # Установка / Installation
 Файл .zip - версия для пк. Дабы установить, скачайте файл, создайте новую папку и распакуйте архив в неё.
+
 Файл .apk - версия для андроид. Дабы установить, скачайте файл, затем просто откройте его и установите.
 
 Есть метод установки с модами - скачайте Geode, установите его в зависимости от платформы, зайдите в Geometry Dash, найдите мод GDPS Switcher, скачайте его и перезапустите игру. Снизу появится новая кнопка, нажимаем на неё, в открывшемся меню нажимаем New, в поле с названием пишем "Nova GDPS" (без кавычек), а в поле ниже вставляем следующую ссылку: "https://novagdps.ps.fhgdps.com/" (без кавычек), строку Save Name не трогаем, затем нажимаем сохранить, затем выходим, нас просит перезапустить игру, перезапускаем. Всё! Мы на сервере! С модами!
@@ -21,6 +22,7 @@ Heyo ppl, Govorius' here! There's my own private server - Nova! It's continuatio
 --------------------------------------------------
 
 The .zip file is a version for PC. In order to install, download the file, create a new folder and unzip the archive into it.
+
 The .apk file is a version for Android. In order to install, download the file, then just open it and install it.
 
 There is an installation method with mods - download Geode, install it depending on the platform, go to Geometry Dash, find the GDPS Switcher mod, download it and restart the game. A new button will appear from below, click on it, click New in the menu that opens, type "Nova GDPS" (without quotes) in the name field, and paste the following link into the field below: "https://novagdps.ps.fhgdps.com/" (without quotes), do not touch the Save Name line, then click save, then exit, it will ask to restart the game, restart. That's it! We are on the server! With mods!

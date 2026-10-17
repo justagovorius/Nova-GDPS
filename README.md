@@ -17,7 +17,7 @@ Heyo ppl, Govorius' here! There's my own private server - Nova! It's continuatio
 На пк: заходите в корневую папку игры, затем заходите в geode/config/geode.texture-loader/packs, перемещаете текстур пак в эту папку.
 Затем заходите в игру, нажимайте кнопку с изображением папки, которая находится справа, затем нажимаете Ok в появившемся окне, затем нажимаете настройки, Graphics, Textures, находите Nova GDPS TexturePack.zip, перетаскиваете его в правый столбец и нажимаете Apply. Всё! Текстур пак применён!
 
-ВНИМАНИЕ! Geode может быть доступен на новые версии клиента не сразу, так что придётся подождать.
+ВНИМАНИЕ! Geode может быть доступен на новые версии клиента не сразу, так что придётся подождать. С модами такая же история.
 
 --------------------------------------------------
 
@@ -32,4 +32,4 @@ On android: go to Android/media/com.geode.loader/game, then follow steps for pc
 On PC: go to the root folder of the game, then go to geode/config/geode.texture-loader/packs, move the texture pack to this folder.
 Then go into the game, click the button with the image of the folder on the right, then click Ok in the window that appears, then click settings, Graphics, Textures, find Nova GDPS TexturePack.zip, drag it to the right column and click Apply. That's it! The texture pack is applied!
 
-NOTE! Geode may not be available on new client versions right away, so you’ll have to wait.
+NOTE! Geode may not be available for new client versions right away, so you’ll have to wait. The same goes for mods.
